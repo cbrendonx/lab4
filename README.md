@@ -1,6 +1,8 @@
 lab4
 ====
 
-Lab 4: Server-side backend web development
+Simulating a backend without needing a server. Created by Philip Guo in
+Nov 2017.
 
-Originally created by Scott Klemmer, Michael Bernstein, and a coalition of TAs. This version forked from https://github.com/IntroHCI/lab4 and modified by Philip Guo.
+See [pre-2017-version/](pre-2017-version/) for how the lab was before
+Philip Guo simplified it in Fall 2017.
